@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DavionWu2018
+- 👀 I’m interested in sustainable tourism, tourism firm management, text mining, and decision science.
+- 🌱 I’m currently learning tourism management.
+- 💞️ I’m looking to collaborate on text mining of tourism big data.
+- 📫 How to reach me: dwu@mail.nankai.edu.cn.
