@@ -3,7 +3,7 @@ Project description:
 2)关键词可定义为“旅游上市公司简称”、“旅游目的地+旅游六要素”...
 
 How to use:  
-1)将.idea和baidu_index文件夹放到“C盘Anaconda”文件夹根目录下面;  
+1)将.idea(需要解压)和baidu_index文件夹放到“C盘Anaconda”文件夹根目录下面;  
 2)在Jupyter Notebook运行 Baidu_index_Davion.py 主程序;
 
 Cookies update:
